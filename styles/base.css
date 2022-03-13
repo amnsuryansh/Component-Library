@@ -594,3 +594,7 @@ footer {
     /* background: var(--info-bc); */
     color: var(--info-color);
 }
+
+.code-snippet {
+    overflow: hidden;
+}
