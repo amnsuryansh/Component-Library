@@ -10,11 +10,13 @@
 .grid-two {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
 }
 
 .grid-three {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2rem;
 }
 
 .grid-item {

@@ -2,12 +2,6 @@
     --color-text: #f97316;
 }
 
-.grid-two {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 2rem;
-}
-
 .h1 {
     font-size: 48px;
     line-height: 64px;
