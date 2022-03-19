@@ -4,10 +4,10 @@
 @import url("./button/button.css");
 @import url("./grid-component/grid-component.css");
 @import url("./image/image.css");
-@import url("./input/input.css");
 @import url("./list/list.css");
 @import url("./rating/rating.css");
 @import url("./text-utility/text-utility.css");
+@import url("./input-component/input-component.css");
 * {
     margin: 0;
     padding: 0;
@@ -594,4 +594,8 @@ footer {
 .data {
     /* background: var(--info-bc); */
     color: var(--info-color);
+}
+
+.code-snippet {
+    overflow: hidden;
 }
